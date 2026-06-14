@@ -1,4 +1,4 @@
-# Titanic Survival Prediction 🚢
+# Titanic Survival Prediction
 
 > Predicting passenger survival using a Decision Tree classifier — with a focus on preventing data leakage and selecting the optimal model depth.
 
